@@ -48,3 +48,17 @@ mkdir build && cd build
 cmake ..
 make
 ./realtime_iot_sensor_simulator
+## Attribution
+
+This project is based on the [Real-Time IoT Sensor Simulator](https://github.com/Kamalakannan23/realtime-iot-sensor-simulator) by Kamalakannan Arumugam, licensed under the MIT License.
+
+I extended the original implementation with:
+
+- Object-oriented sensor classes using inheritance and polymorphism
+- Temperature and pressure sensor implementations
+- A reusable multithreaded SensorManager
+- A thread-safe queue using mutexes and condition variables
+- Producer–Consumer architecture
+- Sensor timing jitter analysis and statistics
+
+The original author's copyright and license are preserved.
