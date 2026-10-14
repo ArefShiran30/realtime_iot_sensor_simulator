@@ -1,0 +1,46 @@
+Starting Real-Time IoT Sensor Simulator...
+[Sensor 1] Value: 24.78 °C | Jitter: -1000.000 ms
+[Sensor +2] Value: +25.01 °C | Jitter: -500.000 ms
+[Sensor +2] Value: +25.41 °C | Jitter: +1.830 ms
+[Sensor +1] Value: +25.40 °C | Jitter: +6.255 ms
+[Sensor +2] Value: +24.84 °C | Jitter: +4.370 ms
+[Sensor +2] Value: +25.38 °C | Jitter: -5.447 ms
+[Sensor +2] Value: +25.34 °C | Jitter: +1.046 ms
+[Sensor +1] Value: +25.34 °C | Jitter: +0.082 ms
+[Sensor +2] Value: +25.20 °C | Jitter: -1.592 ms
+[Sensor +2] Value: +24.59 °C | Jitter: +5.340 ms
+[Sensor +1] Value: +25.09 °C | Jitter: -0.286 ms
+[Sensor +2] Value: +25.21 °C | Jitter: +20.840 ms
+[Sensor +2] Value: +24.63 °C | Jitter: -21.518 ms
+[Sensor +1] Value: +24.52 °C | Jitter: -0.363 ms
+[Sensor +2] Value: +24.59 °C | Jitter: +5.272 ms
+[Sensor +2] Value: +24.53 °C | Jitter: -6.780 ms
+[Sensor +1] Value: +25.39 °C | Jitter: -0.080 ms
+[Sensor +2] Value: +25.38 °C | Jitter: +0.244 ms
+[Sensor +2] Value: +24.83 °C | Jitter: -1.893 ms
+[Sensor +1] Value: +25.46 °C | Jitter: -0.688 ms
+[Sensor +2] Value: +25.10 °C | Jitter: +1.232 ms
+[Sensor +1] Value: +24.60 °C | Jitter: -2.946 ms
+[Sensor +2] Value: +24.57 °C | Jitter: +0.211 ms
+[Sensor +2] Value: +24.57 °C | Jitter: -2.791 ms
+[Sensor +1] Value: +24.79 °C | Jitter: -0.752 ms
+[Sensor +2] Value: +25.41 °C | Jitter: +0.857 ms
+[Sensor +2] Value: +24.85 °C | Jitter: +15.590 ms
+[Sensor +2] Value: +24.97 °C | Jitter: -16.465 ms
+[Sensor +1] Value: +24.83 °C | Jitter: +14.996 ms
+[Sensor +2] Value: +24.50 °C | Jitter: +18.796 ms
+[Sensor +2] Value: +24.85 °C | Jitter: -12.811 ms
+
+Simulation ended. Calculating jitter stats...
+
+=== Jitter Statistics ===
+Samples considered: 9
+Average: +1.802 ms
+Min: -2.946 ms | Max: +14.996 ms
+
+=== Jitter Statistics ===
+Samples considered: 20
+Average: +0.317 ms
+Min: -21.518 ms | Max: +20.840 ms
+
+Program finished cleanly.
